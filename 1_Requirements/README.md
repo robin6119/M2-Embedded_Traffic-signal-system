@@ -1,93 +1,100 @@
 # INTRODUCTION
 
-       Nowadays, controlling the traffic becomes major issue because of rapid increase in automobiles and also because of large time delays between traffic lights. So, in order to rectify this problem, we will go for density based traffic lights system. This project explains you how to control the traffic based on density.
+        Nowadays, controlling the traffic becomes major issue because of rapid increase in
+        automobiles and also because of large time delays between traffic lights. So, in order 
+        to rectify this problem, we will go for density based traffic lights system.
+        This project explains you how to control the traffic based on density.
        
  ## FEATURES OF TRAFFIC SIGNAL SYSTEM 
   
-    In this system, we will use IR sensors to measure the traffic density. We have to arrange one IR sensor for each road; these sensors always sense the traffic on that particular road. All these sensors are interfaced to the microcontroller. Based on these sensors, controller detects the traffic and controls the traffic system.
+         In this system, we will use IR sensors to measure the traffic density.
+         We have to arrange one IR sensor for each road; these sensors always sense
+         the traffic on that particular road. All these sensors are interfaced to the microcontroller.
+         Based on these sensors, controller detects the traffic and controls the traffic system.
 
 ## IDENTIFYING THE REQUIREMENTS
 
 HARDWARE COMPONENTS:
 
-ATmega8 controller
+         ATmega8 controller
 
-PCB board
+         PCB board
 
-IR sensors -4
+         IR sensors -4
 
-LED’s-12(4-red,4-green,4-yellow)
+         LED’s-12(4-red,4-green,4-yellow)
 
-12v Battery or adaptor
+         12v Battery or adaptor
 
-Serial cable
+         Serial cable
 
-Connecting wires
+         Connecting wires
 
 SOFTWARE COMPONENTS:
 
-SimulIDE
+          SimulIDE
 
-Virtual studio code
+          Virtual studio code
 
-avr-gcc
+          avr-gcc
 
-Make
+          Make
 
 ## SWOT ANALYSIS
 
 STRENGTH: 
 
-  This project helps in reducing the time delay.
+          This project helps in reducing the time delay.
 
 WEAKNESS:
 
-  IR sensors sometimes may absorb normal light also. As a result, traffic system works in improper way.
+          IR sensors sometimes may absorb normal light also. As a result, traffic system works in improper way.
   
-  IR sensors work only for fewer distances.
+          IR sensors work only for fewer distances.
   
-  We have to arrange IR sensors in accurate manner otherwise they may not detect the traffic density.
+          We have to arrange IR sensors in accurate manner otherwise they may not detect the traffic density.
 
 OPPORTUNITIES:
 
-  Avoids wastage of time due to the traffic
+          Avoids wastage of time due to the traffic
   
-  Fully automatic
+          Fully automatic
   
-  Low power consumption
+          Low power consumption
   
-  It provides the easy access in the traffic light
+          It provides the easy access in the traffic light
   
-  Low cost to design the circuit, maintenance of the circuit is good
+          Low cost to design the circuit, maintenance of the circuit is good
   
-  Easy convenience to handle.
+          Easy convenience to handle.
 
 THREADS:
 
- IR sensors sometimes may absorb normal light also. As a result, traffic system works in improper way.
+          IR sensors sometimes may absorb normal light also. As a result, traffic system works in improper way.
   
  ## 4W's AND 1H
  
  WHAT:
  
-  This Project explains you how to control the traffic based on density.
+          This Project explains you how to control the traffic based on density.
  
  WHERE:
  
-  In High traffic density areas to control traffic automatically and efficiently.
+          In High traffic density areas to control traffic automatically and efficiently.
   
  WHEN:
  
-  During dense traffic areas.
-  High populated areas.
+         During dense traffic areas.
+         High populated areas.
  
  WHY:
  
-    If there will be no traffic on the other signal, one shouldn’t wait for that signal. The system will skip that signal and will move on the next one.
+        If there will be no traffic on the other signal, one shouldn’t wait for that signal. 
+        The system will skip that signal and will move on the next one.
 
  HOW:
  
-    It controls traffic signals automatically using sensors and microcontroller.
+        It controls traffic signals automatically using sensors and microcontroller.
 
 ## HIGH LEVEL REQUIREMENTS
 
