@@ -13,7 +13,7 @@
 
 ![WhatsApp Image 2021-11-27 at 7 10 05 PM (1)](https://user-images.githubusercontent.com/94118694/143685126-90f3439a-a8f1-44bd-8930-aba82f8a0e36.jpeg)
 
-![WhatsApp Image 2021-11-27 at 8 33 31 PM](https://user-images.githubusercontent.com/94118694/143846405-d332e518-45d8-4f7c-b620-ff5588d8558a.jpeg)
+
 
 
 
