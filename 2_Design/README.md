@@ -8,7 +8,6 @@
 
 ![WhatsApp Image 2021-11-27 at 7 51 05 PM (1)](https://user-images.githubusercontent.com/94118694/143846175-2d7f3bcf-6bdd-4fbe-b5a9-e7d4ac018b11.jpeg)
 
-
 ## STRUCTURAL DIAGRAM
 
 ![WhatsApp Image 2021-11-27 at 7 10 05 PM (1)](https://user-images.githubusercontent.com/94118694/143685126-90f3439a-a8f1-44bd-8930-aba82f8a0e36.jpeg)
