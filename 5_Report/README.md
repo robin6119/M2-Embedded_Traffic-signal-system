@@ -140,7 +140,7 @@ THREADS:
 |ID NO|DESCRIPTION|EXPECTED I/P|EXPECTED O/P|ACTUAL O/P|TYPES OF TEST|
 |---|---|---|---|---|---|
 |H_01|Check and verify whether the traffic light led's are working or not|---|Led's should be displayed|Led's should be displayed|Requirement Based|
-|H_02|Check and verify whether the traffic light is working for that particular time|---|Light should be working at that particular time|Light should be working at that particular time|Scenario Based|
+|H_02|Check and verify whether the traffic light is working for that particular time|---|Light should be working at that particular time|Light should be working at that particular  time|Scenario Based|
 |H_03|Check and verify whether the signal is skipped when there is no traffic on that road|---|Signal shouls be skipped|Signal should be skipped|Boundary Based|
 
 ## LOW LEVEL TESTING SCENARIOS
@@ -156,10 +156,3 @@ THREADS:
        There  is  exigent  need  of  efficient  traffic  management system  in  our  country,  as  India  meets
        with  384  road accidents  every  day.  To  reduce  this  congestion  and unwanted  time  delay  in  traffic 
        an  advanced  system  is designed here in this project.
-
-
-
-
-
-
-
