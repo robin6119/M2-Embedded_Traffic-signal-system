@@ -14,6 +14,9 @@
 
 ![WhatsApp Image 2021-11-29 at 3 21 07 PM](https://user-images.githubusercontent.com/94118694/143846676-b0c88be6-aba4-42de-a2c3-ab84c827f065.jpeg)
 
+## Simulation Image
+![Circuit Simulation](https://user-images.githubusercontent.com/89175883/144375630-e623e24b-22c4-4759-a6a1-b08b7eccf356.jpeg)
+
 
 
 
