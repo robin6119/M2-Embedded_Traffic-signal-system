@@ -151,6 +151,11 @@ THREADS:
 |L_02|Check whether the sensors are working properly during rainy days or not|---|Sensors should work|sensors should work|Scenario Based|
 |L_03|Check and verify whether Cameras should be working properly or not|---|Cameras should work|Cameras should work|Boundary Based|
 
+## CONCLUSION
+        
+       There  is  exigent  need  of  efficient  traffic  management system  in  our  country,  as  India  meets
+       with  384  road accidents  every  day.  To  reduce  this  congestion  and unwanted  time  delay  in  traffic 
+       an  advanced  system  is designed here in this project.
 
 
 
