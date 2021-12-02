@@ -1,9 +1,12 @@
 # INTRODUCTION
 
-        Nowadays, controlling the traffic becomes major issue because of rapid increase in
-        automobiles and also because of large time delays between traffic lights. So, in order 
-        to rectify this problem, we will go for density based traffic lights system.
-        This project explains you how to control the traffic based on density.
+       The  project  is  aimed  at  designing  a  density based dynamic traffic signal system 
+        where the  timing of signal  will  change  automatically  on  sensing  the  traffic density  at
+        any  junction.  Traffic  congestion  is  a  severe problem in most cities across the world and therefore
+        it is time to shift more manual mode or fixed timer mode to an automated  system  with  decision  making 
+        capabilities. Present  day traffic  signaling system  is fixed  time based which  may  render
+        inefficient  if one  lane  is operational than the others. To optimize this problem we have made
+        a framework  for  an  intelligent  traffic  control  system.
        
  ## FEATURES OF TRAFFIC SIGNAL SYSTEM 
   
@@ -14,24 +17,10 @@
 
 ## IDENTIFYING THE REQUIREMENTS
 
-HARDWARE COMPONENTS:
-
-         ATmega8 controller
-
-         PCB board
-
-         IR sensors -4
-
-         LED’s-12(4-red,4-green,4-yellow)
-
-         12v Battery or adaptor
-
-         Serial cable
-
-         Connecting wires
-
 SOFTWARE COMPONENTS:
 
+          Atmega328p 
+          
           SimulIDE
 
           Virtual studio code
