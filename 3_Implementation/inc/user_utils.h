@@ -1,16 +1,16 @@
-#ifndef __USER_UTILS_H__
-#define __USER_UTILS_H__
+#ifndef _USER_UTILS_H_
+#define _USER_UTILS_H_
 /**
  * @file user_utils.h
- * @author Bharath.G ()
+ * @author robin6119 ()
  * @brief User defined utilities used across the project
  * @version 0.1
- * @date 2021-04-23
+ * @date 2021-12-01
  * 
  * @copyright Copyright (c) 2021
  * 
  */
-#include "project_config.h"
+#include "traffic-signal-system.h"
 #include <util/delay.h>
 
 /**
@@ -21,4 +21,4 @@
  */
 void delay_ms(uint32_t delay_time);
 
-#endif /* __USER_UTILS_H__ */
+#endif /* _USER_UTILS_H_ */
