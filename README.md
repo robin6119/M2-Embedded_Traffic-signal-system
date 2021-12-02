@@ -1,10 +1,13 @@
 # M2-Embedded_Traffic-signal-system
 
-    Nowadays, controlling the traffic becomes major issue because of rapid increase in
-    automobiles and also because of large time delays between traffic lights. So, in order 
-    to rectify this problem, we will go for density based traffic lights system.
-    This project explains you how to control the traffic based on density.
-
+       The  project  is  aimed  at  designing  a  density based dynamic traffic signal system 
+        where the  timing of signal  will  change  automatically  on  sensing  the  traffic density  at
+        any  junction.  Traffic  congestion  is  a  severe problem in most cities across the world and therefore
+        it is time to shift more manual mode or fixed timer mode to an automated  system  with  decision  making 
+        capabilities. Present  day traffic  signaling system  is fixed  time based which  may  render
+        inefficient  if one  lane  is operational than the others. To optimize this problem we have made
+        a framework  for  an  intelligent  traffic  control  system.
+        
 |CPPCHECK BADGE|
 |---|
 |[![Cppcheck](https://github.com/robin6119/M2-Embedded_Traffic-signal-system/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/robin6119/M2-Embedded_Traffic-signal-system/actions/workflows/cppcheck.yml)|
