@@ -11,5 +11,5 @@
 |ID NO|DESCRIPTION|EXPECTED I/P|EXPECTED O/P|ACTUAL O/P|TYPES OF TEST|
 |---|---|---|---|---|---|
 |L_01|If you receive logic 0 from any of these sensors, we have to give the green signal to that particular path and give red signal to all other paths|---|||Requirement Based|
-|L_02|
+|L_02|Check whether th sensors are working properly during rainy days or not|---|Sensors shouls work|sensors should work|Scenario Based|
 |L_03|
