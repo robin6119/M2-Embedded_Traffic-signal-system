@@ -40,6 +40,21 @@ SOFTWARE COMPONENTS:
 
           Make
 
+## STATE OF ART
+
+    Though the prototype model worked very efficiently with remarkable outputs, the real life situation is going to be 
+    way  more  challenging  and  demanding.  Few  of  the challenges that should be taken into account are listed as follows 
+    Low range IR sensors may not be an answer for long range signaling system. We may resort to ultrasound or radar techniques
+    for big scale set-ups.
+    • Next is  the influence of stray signals that may alter the reading of sensor receptors and lead to conveying false information
+    to the microcontroller.  • Periodic checking of the accuracy and precision is a must  for  efficacious  operation  of  this 
+    prototype.  Safety  first:  it  has  to  be  absolutely  made  sure  that  no compromise  is  being  made  on  safety  issues,  
+    a secondary  stand-by  set-upthat  can  switch  over  from automated to manual mode, should be provided in case of sensor  or 
+    circuit  malfunctions  so  that   crowd does not go beyond control.  As  part  of  future  advancements,  the  traffic
+    check  post may be  connected by wireless  transmitters by  the crossings ahead may be an anticipation of the traffic that
+    is approaching. This may be achieved the connecting the sensor  network  with  GPS  connectivity  and  short  wave radio
+    transmission signals. This act as a feedforward system  making the  signaling  system even  more smooth and congestion free.
+
 ## SWOT ANALYSIS
 
 STRENGTH: 
